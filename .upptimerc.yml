@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: ups.serginho.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/SergioGlorias/uptimeStatus.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UPs do Serginho
   introTitle: "Veja o Status pelo Github"
   introMessage: Isto é a penas um teste
