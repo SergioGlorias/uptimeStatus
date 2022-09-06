@@ -7,8 +7,6 @@ sites:
     url: https://serginho.dev/
   - name: Serginho Pesquisas
     url: https://search.serginho.dev/
-  - name: Discord Link
-    url: https://discord.serginho.dev/
   - name: API
     url: https://api.serginho.dev/
 
