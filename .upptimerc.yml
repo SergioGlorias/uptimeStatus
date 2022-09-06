@@ -18,6 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UPs do Serginho
   introTitle: "Veja o Status pelo Github"
+  theme: ocean
   introMessage: Isto é a penas um teste
   navbar:
     - title: Status
