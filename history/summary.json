@@ -2,7 +2,7 @@
   {
     "name": "Blog",
     "url": "https://serginho.dev/",
-    "icon": "https://favicons.githubusercontent.com/serginho.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/serginho.dev.ico",
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 205,
+    "time": 349,
+    "timeDay": 280,
     "timeWeek": 331,
-    "timeMonth": 351,
-    "timeYear": 351,
+    "timeMonth": 349,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
     "name": "Serginho Pesquisas",
     "url": "https://search.serginho.dev/",
-    "icon": "https://favicons.githubusercontent.com/search.serginho.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/search.serginho.dev.ico",
     "slug": "serginho-pesquisas",
     "status": "up",
     "uptime": "100.00%",
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 387,
-    "timeDay": 306,
-    "timeWeek": 363,
+    "timeDay": 393,
+    "timeWeek": 372,
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {}
@@ -38,7 +38,7 @@
   {
     "name": "API",
     "url": "https://api.serginho.dev/",
-    "icon": "https://favicons.githubusercontent.com/api.serginho.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/api.serginho.dev.ico",
     "slug": "api",
     "status": "up",
     "uptime": "99.94%",
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 322,
-    "timeDay": 92,
-    "timeWeek": 197,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "time": 321,
+    "timeDay": 302,
+    "timeWeek": 223,
+    "timeMonth": 321,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2022-09-22": 22
     }
