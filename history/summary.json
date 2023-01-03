@@ -4,19 +4,19 @@
     "url": "https://serginho.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/serginho.dev.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 329,
-    "timeDay": 368,
-    "timeWeek": 358,
-    "timeMonth": 329,
-    "timeYear": 329,
+    "time": 330,
+    "timeDay": 381,
+    "timeWeek": 363,
+    "timeMonth": 332,
+    "timeYear": 330,
     "dailyMinutesDown": {
-      "2023-01-03": 16
+      "2023-01-03": 23
     }
   },
   {
@@ -48,7 +48,7 @@
     "uptime": "81.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.17%",
+    "uptimeMonth": "28.16%",
     "uptimeYear": "81.49%",
     "time": 216,
     "timeDay": 104,
@@ -56,7 +56,7 @@
     "timeMonth": 128,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-01-03": 413,
+      "2023-01-03": 420,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
