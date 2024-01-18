@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/serginho.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.06%",
     "time": 486,
-    "timeDay": 178,
-    "timeWeek": 161,
-    "timeMonth": 274,
+    "timeDay": 167,
+    "timeWeek": 163,
+    "timeMonth": 263,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2023-11-02": 39,
@@ -39,18 +39,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.serginho.dev.ico",
     "slug": "serginho-pesquisas",
     "status": "down",
-    "uptime": "65.33%",
+    "uptime": "65.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.79%",
+    "uptimeYear": "52.52%",
     "time": 391,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 401,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-01-17": 12,
+      "2024-01-18": 12,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -222,8 +223,7 @@
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
-      "2023-07-29": 1355,
-      "2023-01-18": 524
+      "2023-07-29": 1355
     }
   },
   {
@@ -232,7 +232,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.serginho.dev.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "19.41%",
+    "uptime": "19.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -243,7 +243,8 @@
     "timeMonth": 0,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-01-17": 12,
+      "2024-01-18": 12,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -606,8 +607,7 @@
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
-      "2023-01-19": 1440,
-      "2023-01-18": 1440
+      "2023-01-19": 1440
     }
   }
 ]
