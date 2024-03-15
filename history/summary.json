@@ -9,19 +9,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.70%",
     "time": 490,
-    "timeDay": 105,
+    "timeDay": 128,
     "timeWeek": 143,
-    "timeMonth": 156,
-    "timeYear": 536,
+    "timeMonth": 142,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2023-11-02": 39,
       "2023-08-09": 65,
       "2023-03-19": 993,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -30,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.serginho.dev.ico",
     "slug": "serginho-pesquisas",
     "status": "down",
-    "uptime": "58.61%",
+    "uptime": "58.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "37.27%",
+    "uptimeYear": "37.00%",
     "time": 393,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 388,
+    "timeYear": 389,
     "dailyMinutesDown": {
-      "2024-03-14": 11,
+      "2024-03-15": 12,
+      "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -279,18 +279,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.serginho.dev.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "17.41%",
+    "uptime": "17.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 133,
+    "time": 132,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-03-14": 11,
+      "2024-03-15": 12,
+      "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -653,8 +654,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   }
 ]
